@@ -1,3 +1,5 @@
+ "use client"
+
 import React, { useState, useRef, useEffect } from 'react';
 import * as Icon from 'react-bootstrap-icons';
 import "./Navbar.css"
